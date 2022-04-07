@@ -1,0 +1,25 @@
+{
+  "header": {
+    "nav": { "home": "Inicio", "bar": "Bar" },
+    "searcher": { "placeholder": "Sex on the beach" }
+  },
+  "global": {
+    "company": { "name": "Drink much S.L." },
+    "copyright": "Copyright © 2022 {0} Inc. All rights reserved."
+  },
+  "page": {
+    "bar": {
+      "title": "Barman",
+      "subtitle": "¿Que te pongo?",
+      "searcher": { "placeholder": "Filter...." },
+      "not-found": "Vaya! Esa bebida no me suena..."
+    }
+  },
+  "actions": {
+    "view-more": "Ver mas"
+  },
+  "component": {
+    "button": { "back": "Volver", "home": "Inicio" },
+    "loader": { "loading": "Cargando..." }
+  }
+}

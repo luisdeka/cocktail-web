@@ -1,0 +1,5 @@
+@import 'tailwind.css';
+@import 'variables/colors.css';
+@import 'variables/layout.css';
+@import 'background-color.pcss';
+@import 'text-color.pcss';

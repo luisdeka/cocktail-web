@@ -1,0 +1,25 @@
+{
+  "header": {
+    "nav": { "home": "Home", "bar": "Bar" },
+    "searcher": { "placeholder": "Sex on the beach" }
+  },
+  "global": {
+    "company": { "name": "Cocktail S.L." },
+    "copyright": "Copyright © 2022 {0} Inc. All rights reserved."
+  },
+  "page": {
+    "bar": {
+      "title": "Barman!",
+      "subtitle": "How can i serve you?",
+      "searcher": { "placeholder": "Filter...." },
+      "not-found": "Wow! I dont know what cocktail it is..."
+    }
+  },
+  "actions": {
+    "view-more": "More"
+  },
+  "component": {
+    "button": { "back": "Go Back", "home": "Home" },
+    "loader": { "loading": "Loading..." }
+  }
+}

@@ -1,0 +1,15 @@
+:root {
+  --color-white: #fff;
+  --color-grey: #eee;
+  --color-main: #003083;
+  --color-main-light: #0098f1;
+  --color-main-dark: #001d64;
+  --color-secondary: #4e6f04;
+  --color-text: #000;
+  --color-link: #1565c0;
+}
+
+/*
+[data-theme='dark'] {
+}
+*/
