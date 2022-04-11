@@ -19,6 +19,7 @@ const isActive = ref(false)
     <input
       ref="input"
       class="h-10 px-5 pr-16 rounded-lg text-sm focus:outline-none w-full"
+      :class="innerClass"
       type="text"
       name="search"
       v-bind="cleanAttrs(Object.assign({}, $attrs))"
